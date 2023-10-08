@@ -12,3 +12,5 @@ Per questa occasione abbiamo creato un sito web atto a svolgere il compito di ve
 Parallelamente abbiamo creato un video didattico per gli esperti che utilizzano comodamento GOOGLE COLAB (utile anche a chi programma con python).
 
 Il nostro scopo è coinvolgere esperti, appassionati e studenti nell'utilizzo di sistemi opensource in modo più semplice, al fine di aumentare capacità, consapevolezza e aiutare la ricerca spaziale a combattere il riscaldamento globale.
+
+<img property="" src="HOW IT WORKS.jpg">
