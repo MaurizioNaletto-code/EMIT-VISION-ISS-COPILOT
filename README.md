@@ -1,6 +1,6 @@
 # EMIT-VISIONS-ISS-COPILOT EMIT FOR THE FUTURE
 A website Copilot for EMIT VISIONS ISS DATA ANALISYS -  NASA SPACE APPS HACKATON 2023
-
+<img property="" src="emit-researcher student.png">
 Questo è un progetto presentato per NASA SPACE APPAS HACKATON 2023. 
 
 Il progetto si divide in due parti:
