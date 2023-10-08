@@ -3,7 +3,7 @@ A website Copilot for EMIT VISIONS ISS DATA ANALISYS -  NASA SPACE APPS HACKATON
 
 
 OFFICIAL WEBSITE https://www.emit-vision-iss-copilot.com/
-<a href="https://www.emit-vision-iss-copilot.com/">https://www.emit-vision-iss-copilot.com/</a>.
+<a href="https://www.emit-vision-iss-copilot.com/"></a>.
 
 
 <img property="" src="emit-researcher student.png">
