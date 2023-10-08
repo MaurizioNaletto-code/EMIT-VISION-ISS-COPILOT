@@ -13,4 +13,4 @@ Parallelamente abbiamo creato un video didattico per gli esperti che utilizzano 
 
 Il nostro scopo è coinvolgere esperti, appassionati e studenti nell'utilizzo di sistemi opensource in modo più semplice, al fine di aumentare capacità, consapevolezza e aiutare la ricerca spaziale a combattere il riscaldamento globale.
 
-<img property="" src="HOW IT WORKS.jpg">
+<img property="" src="HOW IT WORKS.png">
