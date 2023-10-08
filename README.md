@@ -1,14 +1,14 @@
 # EMIT-VISIONS-ISS-COPILOT EMIT FOR THE FUTURE
-A website Copilot for EMIT VISIONS ISS DATA ANALISYS -  NASA SPACE APPS HACKATON 2023
+A website Copilot for EMIT VISIONS ISS DATA ANALISYS -  NASA SPACE APPS HACKATHON 2023
 
 
 OFFICIAL WEBSITE https://www.emit-vision-iss-copilot.com/
-<a href="https://www.emit-vision-iss-copilot.com/"></a>.
+<a href="https://www.emit-vision-iss-copilot.com/"></a>(built during hackathon)
 
 
 <img property="" src="emit-researcher student.png">
 
-This is a project submitted for NASA SPACE APPAS HACKATON 2023.
+This is a project submitted for NASA SPACE APPAS HACKATHON 2023.
 
 The project is divided into two parts:
 1)An Educational workshop for students and teachers who aim to learn about EMIT and carry out activities, which concern increasing awareness of the dynamics that contribute to global warming.
@@ -23,7 +23,7 @@ Our aim is to engage experts, enthusiasts and students in using open source syst
 
 ITA VERSION
 
-Questo è un progetto presentato per NASA SPACE APPAS HACKATON 2023. 
+Questo è un progetto presentato per NASA SPACE APPAS HACKATHON 2023. 
 
 Il progetto si divide in due parti:
 1)Creare dei laboratori didattici per gli studenti, per conoscere EMIT e svolgere delle attività, con i propri docenti, che riguardano l'aumento consapevolezza delle dinamiche che contribuiscono al surriscaldamento globale.
